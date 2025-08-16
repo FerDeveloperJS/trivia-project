@@ -1,0 +1,187 @@
+@media (max-width: 1360px) {
+    .earth-svg {
+        left: 300px;
+    }
+
+    .basketball-svg {
+        left: 600px;
+    }
+
+    .soccer-svg {
+        left: 800px;
+    }
+
+    .music-svg {
+        left: 1000px;
+    }
+}
+
+@media (max-width: 1160px) {
+    .earth-svg {
+        width: 150px;
+        height: 150px;
+    }
+
+    .basketball-svg {
+        left: 500px;
+        width: 100px;
+        height: 100px;
+    }
+
+    .soccer-svg {
+        left: 700px;
+        width: 100px;
+        height: 100px;
+    }
+
+    .music-svg {
+        left: 900px;
+        width: 100px;
+        height: 100px;
+    }
+}
+
+@media (max-width: 1000px) {
+    .earth-svg {
+        width: 100px;
+        height: 100px;
+    }
+
+    .basketball-svg {
+        width: 80px;
+        height: 80px;
+        left: 420px;
+    }
+
+    .soccer-svg {
+        width: 80px;
+        height: 80px;
+        left: 520px;
+    }
+
+    .music-svg {
+        width: 80px;
+        height: 80px;
+        left: 650px;
+    }
+}
+
+@media (max-width: 735px) {
+    section.hero h1 {
+        margin-left: 10px;
+    }
+
+    .earth-svg {
+        left: 200px;
+    }
+
+    .basketball-svg {
+        left: 320px;
+    }
+
+    .soccer-svg {
+        left: 420px;
+    }
+
+    .music-svg {
+        left: 550px;
+    }
+}
+
+@media (max-width: 635px) {
+    .earth-svg {
+        top: 50px;
+        width: 80px;
+        height: 80px;
+    }
+
+    .basketball-svg {
+        left: 290px;
+        width: 60px;
+        height: 60px;
+    }
+
+    .soccer-svg {
+        left: 360px;
+        width: 60px;
+        height: 60px;
+    }
+
+    .music-svg {
+        left: 440px;
+        width: 60px;
+        height: 60px;
+    }
+
+    .play-game {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 505px) {
+    section.hero h1 {
+        font-size: 2rem;
+    }
+
+    .earth-svg {
+        left: 150px;
+    }
+
+    .basketball-svg {
+        left: 250px;
+    }
+
+    .soccer-svg {
+        left: 320px;
+    }
+
+    .music-svg {
+        left: 400px;
+    }
+}
+
+@media (max-width: 465px) {
+    section.hero h1 {
+        font-size: 1.5rem;
+    }
+
+    .earth-svg {
+        left: 120px;
+        width: 60px;
+        height: 60px;
+    }
+
+    .basketball-svg {
+        left: 200px;
+        width: 40px;
+        height: 40px;
+    }
+
+    .soccer-svg {
+        left: 250px;
+        width: 40px;
+        height: 40px;
+    }
+
+    .music-svg {
+        left: 300px;
+        width: 40px;
+        height: 40px;
+    }
+
+    .play-game {
+        font-size: 1.2rem;
+    }
+}
+
+@media (max-width: 340px) {
+    .soccer-svg {
+        top: 120px;
+        left: 100px;
+    }
+
+    .music-svg {
+        top: 120px;
+        left: 180px;
+    }
+}

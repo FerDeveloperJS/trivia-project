@@ -1,0 +1,60 @@
+section.hero {
+    padding: 10px;
+    position: relative;
+    background-color: #EF3858;
+    height: 60vh;
+}
+
+section.hero h1 {
+    margin-left: 100px;
+    margin-top: 50px;
+    font-family: "Onest";
+    color: #fff;
+    font-size: 3rem;
+}
+
+.earth-svg {
+    position: absolute;
+    left: 500px;
+    top: 10px;
+    width: 250px;
+    height: 250px;
+}
+
+.basketball-svg {
+    position: absolute;
+    top: 50px;
+    left: 800px;
+    width: 150px;
+    height: 150px;
+}
+
+.soccer-svg {
+    position: absolute;
+    top: 30px;
+    left: 1000px;
+    width: 150px;
+    height: 150px;
+}
+
+.music-svg {
+    position: absolute;
+    top: 15px;
+    left: 1200px;
+    width: 150px;
+    height: 150px;
+}
+
+.play-game {
+    position: absolute;
+    font-family: "Onest";
+    font-size: 2rem;
+    background-color: #006D77;
+    padding: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: -25px;
+    border-radius: 50px;
+    color: #fff;
+    font-weight: bolder;
+}
