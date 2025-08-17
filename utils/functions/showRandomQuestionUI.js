@@ -5,7 +5,6 @@ export function showRandomQuestionUI(question) {
 
     let questionString = question.pregunta
     let options = question.opciones
-    let correctAnswer = question.respuesta_correcta
 
     let divQuestion = document.createElement("div")
     divQuestion.classList.add("question")
