@@ -4,5 +4,4 @@ export function hideQuestionUI() {
 
     if (divQuestion) divQuestion.remove()
     if (optionsContainer) optionsContainer.remove()
-
 }
